@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+main
+.idea
+target
+RestAssureProj.iml
